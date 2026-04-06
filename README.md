@@ -6,9 +6,9 @@ The aim of **[OPERATION_RED-FRONTLINE]** is to evaluate some of the most common 
 
 ---
 
-## 🤖 AI Disclosure
-**This project is 100% AI-generated.** 
-The architecture, logic, and code were conceptualized and executed using advanced Large Language Models. This is a deliberate experiment in **AI-driven security automation**, demonstrating how AI can be used to build tools that test other AI systems. The human developer acted as the strategic architect and lead auditor.
+## Development Disclosure
+**This project is AI-assisted.** 
+The core logic, security architecture, and red-teaming strategy were designed by the human author. Advanced Large Language Models were utilized to accelerate code implementation and refine the terminal interface. This synergy demonstrates high-efficiency modern software development practices.
 
 ---
 
