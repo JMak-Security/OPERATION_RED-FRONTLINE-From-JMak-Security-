@@ -1,4 +1,4 @@
-# OPERATION_RED-FRONTLINE-From-JMak-Security - V1.0
+# OPERATION_RED-FRONTLINE-From-JMak-Security
 
 **[OPERATION_RED-FRONTLINE]** is a Python-based automation framework designed for AI security research. Its main goal is to be an aid for security professionals to test LLM robustness in a legal environment, help developers better understand the technical processes of securing Large Language Models, and to aid both students & teachers to learn about prompt injection in a controlled environment.
 
